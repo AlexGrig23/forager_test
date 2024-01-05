@@ -11,7 +11,7 @@ Web application in FastAPI for validate email and phone number
 **1. Clone the repository:**
 
    ```shell
-   git clone https://github.com/AlexGrig23/test.git
+   git clone https://github.com/AlexGrig23/forager_test.git
    ```
 
   Create virtual env.
